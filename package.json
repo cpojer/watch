@@ -1,5 +1,5 @@
 {
-  "name": "watch",
+  "name": "@cnakazawa/watch",
   "description": "Utilities for watching file trees.",
   "scripts": {
     "release:major": "bash scripts/release.sh major",
@@ -15,7 +15,7 @@
   "bin": {
     "watch": "./cli.js"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://github.com/mikeal/watch",
   "bugs": {
     "url": "https://github.com/mikeal/watch/issues"
