@@ -1,6 +1,6 @@
 var fs, watch, watch_original;
 watch = require('../main');
-watch_original = require('watch');
+watch_original = require('@cnakazawa/watch');
 fs = require('fs');
 
 watch.createMonitor(__dirname, function (monitor) {
