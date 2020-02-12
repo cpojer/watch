@@ -16,14 +16,14 @@
     "watch": "./cli.js"
   },
   "version": "1.0.4",
-  "homepage": "https://github.com/mikeal/watch",
+  "homepage": "https://github.com/cpojer/watch",
   "bugs": {
-    "url": "https://github.com/mikeal/watch/issues"
+    "url": "https://github.com/cpojer/watch/issues"
   },
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mikeal/watch.git"
+    "url": "git://github.com/cpojer/watch.git"
   },
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
   "directories": {
